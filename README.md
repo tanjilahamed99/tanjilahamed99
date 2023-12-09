@@ -7,7 +7,7 @@
 ![My Remote Image](https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico) -->
 
 <img
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico"
+  src="https://i.ibb.co/NVC2Zzh/images-7.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
