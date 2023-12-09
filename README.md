@@ -9,7 +9,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernam
 https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg -->
 
 # 🔭 I’m currently working on ...
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
 
 
 Here are some ideas to get you started
