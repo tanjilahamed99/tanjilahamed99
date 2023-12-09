@@ -1,5 +1,8 @@
 
 
+# 📫reach me: ...
+  <a href="mailto:tanjil.ahamed0199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 # Technology That I Know
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
 
@@ -21,5 +24,5 @@
 
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
