@@ -10,7 +10,7 @@
   src="https://i.ibb.co/NVC2Zzh/images-7.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; width: 100%">
 
 
 # 🔍 Reach Me Out :
