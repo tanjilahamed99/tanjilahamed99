@@ -2,13 +2,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
 
-https://api.githubtrends.io/user/svg/tanjilahamed99/langs?time_range=one_year&theme=dark
+<!-- https://api.githubtrends.io/user/svg/tanjilahamed99/langs?time_range=one_year&theme=dark
 
 http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanjilahamed99&theme=black
 
-https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg
+https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 Here are some ideas to get you started
