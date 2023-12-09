@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Tanjil Ahamed!
+# 👋 Hi, I'm Tanjil Ahamed!
 <img
   src="https://i.ibb.co/NVC2Zzh/images-7.jpg"
   alt="Alt text"
