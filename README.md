@@ -4,7 +4,7 @@
   src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Black%20Pink%20Bold%20Elegant%20Monogram%20Personal%20Brand%20Logo.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 100%">
+  style="display: inline-block; margin: 0 auto; width: 50%">
 
 
 # 🔍 Reach Me Out :
