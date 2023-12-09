@@ -8,7 +8,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernam
 
 https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg -->
 
-# 🔭 Github Stats ...
+# <code>🔭 Github Stats ...</code>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
