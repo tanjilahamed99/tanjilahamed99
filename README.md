@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Tanjil Ahamed!
+
+
 <img
   src="https://i.ibb.co/NVC2Zzh/images-7.jpg"
   alt="Alt text"
@@ -17,6 +18,7 @@
   <img src="https://camo.githubusercontent.com/4b17bf96ec09910d620801bf4537933731403ed2e8dca4bbf973ace4ae65ae4f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765"></a>
 
 # 👩‍💻 About Me
+- 👋 Hi, I'm Tanjil Ahamed!
 - 🚀 Web Developer from Bangladesh
 - 💻 MERN stack Developer
 - 🎯 i want a good position in this industry🚀
