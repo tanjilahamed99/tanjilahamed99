@@ -2,7 +2,7 @@
 
 # 📫reach me: ...
   <a href="facebook:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/BoTKT78/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/BoTKT78/"><img src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 # 👩‍💻 About Me
 - 👋 Hi, I'm Tanjil Ahamed!
