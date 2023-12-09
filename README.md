@@ -6,6 +6,12 @@
 ![My Remote Image](https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico?dl=0)
 ![My Remote Image](https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico)
 
+<img
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/favicon.ico"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 # 🔍 Reach Me Out :
   <a style='margin-auto' href="https://www.facebook.com/BoTKT78"> 
