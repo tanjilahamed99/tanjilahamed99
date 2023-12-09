@@ -45,9 +45,6 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
-</div>
-<div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 </div>
 <!-- <div align="center"></div> -->
