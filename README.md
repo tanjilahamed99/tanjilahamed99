@@ -1,19 +1,17 @@
 
 
 # 🔍 Reach Me Out :
-  <a href="https://www.facebook.com/BoTKT78"> 
+  <a style='margin-auto' href="https://www.facebook.com/BoTKT78"> 
   <img src="https://camo.githubusercontent.com/a428615fd6da3270eb06aab64c919a9019487046fdaefbca9ac0d51b17937e26/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d46616365626f6f6b266c6f676f3d66616365626f6f6b266c6162656c3d26636f6c6f723d313837374632266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="facebook logo" data-canonical-src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"></a>
 
-  <a href="mailto:tanjil.ahamed0199@gmail.com"> 
+  <a style='margin-auto' href="mailto:tanjil.ahamed0199@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="https://www.facebook.com/BoTKT78"> 
+  <a  href="https://www.facebook.com/BoTKT78"> 
   <img src="https://camo.githubusercontent.com/a428615fd6da3270eb06aab64c919a9019487046fdaefbca9ac0d51b17937e26/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d46616365626f6f6b266c6f676f3d66616365626f6f6b266c6162656c3d26636f6c6f723d313837374632266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="facebook logo" data-canonical-src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"></a>
 
-  <a href="https://www.facebook.com/BoTKT78"> 
+  <a style='margin-auto' href="https://www.facebook.com/BoTKT78"> 
   <img src="https://camo.githubusercontent.com/a428615fd6da3270eb06aab64c919a9019487046fdaefbca9ac0d51b17937e26/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d46616365626f6f6b266c6f676f3d66616365626f6f6b266c6162656c3d26636f6c6f723d313837374632266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="facebook logo" data-canonical-src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"></a>
-
-  <a href=""><img src=""/></a>
 
 # 👩‍💻 About Me
 - 👋 Hi, I'm Tanjil Ahamed!
