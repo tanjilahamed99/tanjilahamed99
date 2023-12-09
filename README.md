@@ -13,10 +13,10 @@
 
  
 # 👩‍💻 About Me
-👋 Hi, I'm Tanjil Ahamed!
-🚀 Web Developer from Bangladesh
-💻 MERN stack Developer
-🎯 i want a good position in this industry🚀
+- 👋 Hi, I'm Tanjil Ahamed!
+- 🚀 Web Developer from Bangladesh
+- 💻 MERN stack Developer
+- 🎯 i want a good position in this industry🚀
 
 
 
