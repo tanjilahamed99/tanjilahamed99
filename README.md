@@ -35,9 +35,15 @@
 <div align="center">  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 
-</div>
 
