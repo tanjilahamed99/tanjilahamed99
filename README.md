@@ -1,6 +1,7 @@
 
 
-![Alt text]("https://i.ibb.co/NVC2Zzh/images-7.jpg" "Optional title")
+<!-- ![Alt text]("https://i.ibb.co/NVC2Zzh/images-7.jpg" "Optional title") -->
+<img src="https://i.ibb.co/NVC2Zzh/images-7.jpg" alt="Alt text" title="Optional title">
 
 
 # 🔍 Reach Me Out :
