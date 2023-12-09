@@ -1,7 +1,15 @@
 
 
 # 📫reach me: ...
+  <a href="facebook:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:tanjil.ahamed0199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+# 👩‍💻 About Me
+- 👋 Hi, I'm Tanjil Ahamed!
+- 🚀 Web Developer from Bangladesh
+- 💻 MERN stack Developer
+- 🎯 i want a good position in this industry🚀
+
 
 # Technology That I Know
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
@@ -15,11 +23,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 
  
-# 👩‍💻 About Me
-- 👋 Hi, I'm Tanjil Ahamed!
-- 🚀 Web Developer from Bangladesh
-- 💻 MERN stack Developer
-- 🎯 i want a good position in this industry🚀
+
 
 
 
