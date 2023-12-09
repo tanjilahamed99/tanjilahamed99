@@ -27,7 +27,11 @@
 
 
 # Technology That I Know
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+</div>
+
 
 
 
@@ -47,7 +51,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 </div>
-<!-- <div align="center"></div> -->
 
 
 
