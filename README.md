@@ -4,7 +4,9 @@
 
 https://api.githubtrends.io/user/svg/tanjilahamed99/langs?time_range=one_year&theme=dark
 
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={tanjilahamed99}&theme={theme_name}&utcOffset={utcOffset}
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanjilahamed99&theme=black
+
+https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg
 
 
 Here are some ideas to get you started
