@@ -1,7 +1,7 @@
 
 
 <img
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Black%20Pink%20Bold%20Elegant%20Monogram%20Personal%20Brand%20Logo%20(1).png"
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Tanjil_Ahamed_Github_Banner.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 100% ; height: 600px">
