@@ -4,7 +4,7 @@
   src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Tanjil_Ahamed_Github_Banner.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 100% ; height: 600px">
+  style="display: inline-block; margin: 0 auto; width: 100% ; height: 400px">
 
 
 # 🔍 Reach Me Out :
