@@ -18,13 +18,17 @@ alt="Alt text">
 
   <a style="margin:auto" href="mailto:tanjil.ahamed0199@gmail.com"> 
   
-   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tanjil.ahamed0199@gmail.com)
-  
+  <img
+  src=" https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/Gmail_icon_(2020).svg.png"     
+alt="Alt text">
+
   </a>
 
   <a style="margin:auto" href="https://www.linkedin.com/in/tanjil-ahamed"> 
   
-   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanjil-ahamed)
+   <img
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/LinkedIn_icon.svg.png"     
+alt="Alt text">
   </a>
 
   
