@@ -8,22 +8,25 @@
 
 
 # 🔍 Reach Me Out :
-  <div style='display:flex;gap-10px' align='center'>
+  <div style='display:flex' align='center'>
+  <a style="margin: auto" href="https://www.facebook.com/BoTKT78"> 
 
-  <a style="margin:auto" href="mailto:tanjil.ahamed0199@gmail.com">   
+ <img
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/4a04fd17ed69dc2beccbc03787213f3a95173923/image/Facebook_f_logo_(2021).svg"     
+alt="Alt text">
+  </a>
+
+  <a style="margin:auto" href="mailto:tanjil.ahamed0199@gmail.com"> 
   
    [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tanjil.ahamed0199@gmail.com)
+  
   </a>
 
   <a style="margin:auto" href="https://www.linkedin.com/in/tanjil-ahamed"> 
-
+  
    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanjil-ahamed)
   </a>
 
-  <a style="margin: auto" href="htyhtyhtyhtyh"> 
-
-  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-  </a>
   
   </div>
 
