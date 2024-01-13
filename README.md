@@ -36,7 +36,7 @@
 
 
 # <code>🔭 Github Stats ...</code>
-<div align="center">  
+<div style="width: 100% ;" align="center">  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 </div>
