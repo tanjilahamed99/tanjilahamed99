@@ -22,7 +22,7 @@
 
   <a style="margin:auto" href="https://www.linkedin.com/in/tanjil-ahamed"> 
   
-   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanjil-ahamed)
   </a>
 
   
