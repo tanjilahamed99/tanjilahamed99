@@ -7,32 +7,6 @@
   style="display: inline-block; margin: 0 auto; width: 100% ; height: auto">
 
 
-# 🔍 Reach Me Out :
-  <div style='display:flex ; gap:20px; justify-content:center' align='center'>
-
-  <a style="margin: auto" href="https://www.facebook.com/Tanjil9966/"> 
- <img
-  style="margin: 0 auto; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/4a04fd17ed69dc2beccbc03787213f3a95173923/image/Facebook_f_logo_(2021).svg"     
-alt="Alt text ">
-  </a>
-
-  <a style="" href="mailto:tanjil.ahamed0199@gmail.com"> 
-  <img
-   style="; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/Gmail_icon_(2020).svg.png"     
-   alt="Alt text">
-  </a>
-
-  <a style="margin:auto" href="https://www.linkedin.com/in/tanjil-ahamed"> 
-   <img
-    style="margin: 0 auto; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/LinkedIn_icon.svg.png"     
-alt="Alt text">
-  </a>
-
-  
-  </div>
 
 # 👩‍💻 About Me
 - 👋 Hi, I'm Tanjil Ahamed!
@@ -70,6 +44,32 @@ alt="Alt text">
 
 
 
+# 🔍 Reach Me Out :
+  <div style='display:flex ; gap:20px; justify-content:center' align='center'>
+
+  <a style="margin: auto" href="https://www.facebook.com/Tanjil9966/"> 
+ <img
+  style="margin: 0 auto; width: 50px"
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/4a04fd17ed69dc2beccbc03787213f3a95173923/image/Facebook_f_logo_(2021).svg"     
+alt="Alt text ">
+  </a>
+
+  <a style="" href="mailto:tanjil.ahamed0199@gmail.com"> 
+  <img
+   style="; width: 50px"
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/Gmail_icon_(2020).svg.png"     
+   alt="Alt text">
+  </a>
+
+  <a style="margin:auto" href="https://www.linkedin.com/in/tanjil-ahamed"> 
+   <img
+    style="margin: 0 auto; width: 50px"
+  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/LinkedIn_icon.svg.png"     
+alt="Alt text">
+  </a>
+
+  
+  </div>
 
 
 
