@@ -8,7 +8,7 @@
 
 
 # 🔍 Reach Me Out :
-  <div style='display:flex ; gap:10px' align='center'>
+  <div style='display:flex ; gap:20px; justify-content:center' align='center'>
 
   <a style="margin: auto" href="https://www.facebook.com/BoTKT78"> 
  <img
