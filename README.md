@@ -16,7 +16,7 @@
 
   <a style="margin:auto" href="mailto:tanjil.ahamed0199@gmail.com"> 
   
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tanjil.ahamed0199@gmail.com)
   
   </a>
 
