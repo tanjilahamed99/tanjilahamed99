@@ -17,9 +17,9 @@
 alt="Alt text ">
   </a>
 
-  <a style="margin:20px" href="mailto:tanjil.ahamed0199@gmail.com"> 
+  <a style="" href="mailto:tanjil.ahamed0199@gmail.com"> 
   <img
-   style="margin: 20px; width: 50px"
+   style="; width: 50px"
   src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/Gmail_icon_(2020).svg.png"     
    alt="Alt text">
   </a>
@@ -44,7 +44,7 @@ alt="Alt text">
 # Technology That I Know
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
 </div>
 
 
