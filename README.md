@@ -19,6 +19,8 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+
+
 </div>
 
 
@@ -28,6 +30,7 @@
 <div style="width: 100% ;" align="center">  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
