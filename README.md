@@ -29,9 +29,7 @@
 # <code>🔭 Github Stats ...</code>
 <div style="width: 100% ;" align="center">  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanjilahamed99)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 </div>
 
