@@ -29,7 +29,7 @@
 # <code>🔭 Github Stats ...</code>
 <div style="width: 100% ;" align="center">  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjilahamed99&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=tanjilahamed99&theme=shadow-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
@@ -48,31 +48,17 @@
 
 
 # 🔍 Reach Me Out :
-  <div style='display:flex ; gap:20px; justify-content:center' align='center'>
-
-  <a style="margin: 10px" href="https://www.facebook.com/Tanjil9966/"> 
- <img
-  style="margin: 0 auto; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/4a04fd17ed69dc2beccbc03787213f3a95173923/image/Facebook_f_logo_(2021).svg"     
-alt="Alt text ">
-  </a>
-
-  <a style="margin:10px" href="mailto:tanjil.ahamed0199@gmail.com"> 
-  <img
-   style="; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/Gmail_icon_(2020).svg.png"     
-   alt="Alt text">
-  </a>
-
-  <a style="margin:10px" href="https://www.linkedin.com/in/tanjil-ahamed"> 
-   <img
-    style="margin: 0 auto; width: 50px"
-  src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/22fc7a1ae1d9cbe76ba7d1b900bed061fe5ef8f2/image/LinkedIn_icon.svg.png"     
-alt="Alt text">
-  </a>
 
 
-  </div>
+  <p align='center'>
+<a href="https://www.linkedin.com/in/tanjil-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud-hassan-lehri" height="30" width="40" /></a>
+&nbsp;
+  <a href="mailto:tanjil.ahamed0199@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/blue-envelope-icon-24.png" alt="mahmudhassanlehri" height="40" width="40" /></a>
+&nbsp;
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mh_lehri" height="30" width="40" /></a>
+&nbsp;
+  <a href="https://www.facebook.com/Tanjil9966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudhassanlehri" height="30" width="40" /></a>
+</p>
 
 
 
