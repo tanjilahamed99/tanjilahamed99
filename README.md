@@ -29,6 +29,11 @@
 - 🎯 i want a good position in this industry🚀
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjilahamed99&label=Profile%20views&color=0e75b6&style=flat" alt="tanjilahamed99" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjilahamed99" alt="tanjilahamed99" /></a> </p>
+
 # Technology That I Know
 <div align="center">
 
@@ -50,6 +55,8 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
+
+
 </div>
 
 <div align="center">
@@ -57,6 +64,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
