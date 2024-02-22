@@ -34,6 +34,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjilahamed99" alt="tanjilahamed99" /></a> </p>
 
+
+
+
 # Technology That I Know
 <div align="center">
 
@@ -55,8 +58,6 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
-
-
 </div>
 
 <div align="center">
@@ -66,11 +67,7 @@
 </div>
 
 
-
-
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilahamed99&show_icons=true&locale=en&layout=compact" alt="tanjilahamed99" /></p>
 
 
 
