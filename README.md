@@ -55,11 +55,12 @@
 
 <div align="center">
 
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&show_icons=true&theme=radical" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 </div>
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&show_icons=true&theme=radical" /></p>
+
 
 
 
