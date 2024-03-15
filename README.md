@@ -46,15 +46,6 @@
 </div>
 
 
-
-
-# <code>🔭 Github Stats ...</code>
-<div style="width: 100% ;" align="center">  
-
-<img src="https://streak-stats.demolab.com?user=tanjilahamed99&theme=shadow-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
-
-</div>
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
