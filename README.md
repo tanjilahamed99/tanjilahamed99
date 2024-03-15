@@ -53,13 +53,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
 </div>
 
-<div align="center">
-
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&show_icons=true&theme=radical" /></p>
 
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
 </div>
-
 
 
 
