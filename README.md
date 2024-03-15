@@ -11,7 +11,7 @@
 
 
   <p align='center'>
-<a href="https://www.linkedin.com/in/tanjil-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud-hassan-lehri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanjil-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanjil_ahamed" height="30" width="40" /></a>
 &nbsp;
   <a href="mailto:tanjil.ahamed0199@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/blue-envelope-icon-24.png" alt="mahmudhassanlehri" height="40" width="40" /></a>
 &nbsp;
@@ -40,7 +40,7 @@
 # Technology That I Know
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,firebase,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,firebase,expressjs,mongodb,redux)](https://skillicons.dev)
 
 
 </div>
