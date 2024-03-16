@@ -47,7 +47,6 @@
 
 </div>
 
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
