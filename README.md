@@ -38,28 +38,58 @@
 
 
 
-
-# Technology That I Know
+## 💻 Tech Stack
 <div align="center">
+  
+### **Programming & Development**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,firebase,expressjs,mongodb,redux)](https://skillicons.dev)
+<br/>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 
 
+### **Backend Development & Databases**
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+
+### **DevOps & Tools**
+
+<br/>
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+
+<br/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Shamim's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahamed99&theme=radical&hide_border=true&include_all_commits=ture&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjilahamed99&theme=dark)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tanjilahamed99&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&show_icons=true&theme=radical" /></p>
+<br/>
 
 
-<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjilahamed99&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjilahamed99&theme=dark)
-</div>
+
 
 
 
