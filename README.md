@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Tanjil_Ahamed_Github_Banner.png" alt="Tanjil Ahamed Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/banner.png" alt="Tanjil Ahamed Banner" width="100%" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
