@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/tanjilahamed99/tanjilahamed99/main/image/Tanjil_Ahamed_Github_Banner.png" alt="Tanjil Ahamed Banner" width="100%" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
+<!-- ===================== TYPING INTRO ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&center=true&vCenter=true&width=600&height=80&duration=3500&color=58A6FF&lines=Hi+There!+👋;I'm+Tanjil+Ahamed;MERN+Stack+Web+Developer;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&center=true&vCenter=true&width=700&height=90&duration=3500&color=58A6FF&lines=Hi+There!+👋;I'm+Tanjil+Ahamed;MERN+Stack+Web+Developer;Frontend-Focused+Full+Stack+Engineer;Building+Modern+Scalable+Web+Apps" />
 </h1>
 
 <p align="center">
-  🚀 Passionate Web Developer from Bangladesh <br/>
-  💻 Specialized in MERN Stack & Modern Frontend Architecture
+  <b>🚀 Passionate Full Stack Web Developer | MERN Stack Specialist</b><br/>
+  <i>Clean Code • Modern UI • Scalable Architecture</i>
 </p>
 
 ---
@@ -19,15 +19,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanjil-ahamed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tanjil.ahamed0199@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:tanjil.ahamed0199@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/Tanjil9966" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
   </a>
 </p>
 
@@ -35,51 +35,87 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Tanjil Ahamed**
-- 🌍 Based in **Bangladesh**
-- 🧠 **MERN Stack Developer** (MongoDB, Express, React, Node)
-- 🎯 Goal: Secure a strong position in the tech industry
-- 🔥 Love building **scalable, clean & user-friendly web apps**
+Hello! I'm **Tanjil Ahamed**, a **MERN Stack Web Developer** from **Bangladesh**, passionate about building **scalable, high-performance, and user-focused web applications**.
 
-<p align="left">
+### 🔍 Who I Am
+- 💻 Full Stack Developer (Frontend-heavy)
+- 🚀 React & Next.js Specialist
+- 🧠 Clean code & best practices advocate
+- 🌱 Continuous learner & problem solver
+
+### 🎯 Career Objective
+My goal is to secure a **strong position in the software industry** where I can:
+- Build real-world production-ready applications
+- Collaborate with talented engineers
+- Grow my technical & problem-solving skills
+- Deliver impactful digital solutions
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=tanjilahamed99&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanjilahamed99&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
+### 🚀 Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
+
+- ⚡ Modern React (Hooks, Context API, Redux Toolkit)
+- 🎨 Responsive UI with Tailwind CSS
+- 🔥 SEO-optimized Next.js apps
+- 🧩 Reusable component architecture
+- ⚙️ Performance & state optimization
+
+---
 
 ### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
+- 🧠 RESTful API architecture
+- 🔐 JWT & Firebase authentication
+- 🗄 MongoDB schema & aggregation
+- 🚀 Scalable Express.js backend
+
+---
+
 ### 🧰 Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
+- 🔁 Git version control
+- 🌍 GitHub collaboration & workflows
+- ☁️ Vercel deployments
+- 🛠 Debugging & optimization
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Web Application
+- Full MERN stack architecture
+- Authentication & role-based access
+- Product search, cart & checkout
+- Admin dashboard
+
+### 🏥 Medicine E-Commerce Platform
+- Next.js + Redux
+- Discount & quantity calculation
+- Responsive UI with Tailwind CSS
+
+### 🎉 Event / Party Lawn Management System
+- Dynamic forms & image management
+- Advanced state handling
+- Clean admin interface
+
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanjilahamed99&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahamed99&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tanjilahamed99&theme=radical&hide_border=true" />
@@ -87,18 +123,38 @@
 
 ---
 
-## 🚀 What I’m Currently Working On
-- 🔥 Building full-stack MERN projects
-- ⚡ Improving performance & UX in Next.js
-- 🌱 Learning advanced backend & system design
+## 🚀 What I’m Currently Doing
+- 🔥 Building advanced MERN stack projects
+- ⚡ Improving frontend performance
+- 🧠 Learning system design fundamentals
+- 🌱 Exploring scalable backend patterns
 
 ---
 
-## ✨ Quote I Believe In
-> **"Code is not just about logic, it’s about experience."**
+## 📌 Future Roadmap
+- ✅ Advanced Next.js App Router
+- ✅ Type-safe APIs
+- 🔄 Microservices fundamentals
+- ☁️ Cloud & DevOps basics
+- 🔐 Security best practices
+
+---
+
+## 💼 Services I Offer
+- 🌐 Full Stack Web Development
+- 🎨 Frontend UI/UX Development
+- ⚡ React / Next.js Applications
+- 🔧 Bug Fixing & Optimization
+- 🚀 Performance Optimization
+
+---
+
+## ✨ Developer Philosophy
+> **“Great software is built with clean code, thoughtful design, and continuous improvement.”**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following me!
+  ⭐ If you like my work, consider following me <br/>
+  🤝 Open to collaboration & job opportunities
 </p>
