@@ -117,9 +117,7 @@ My goal is to secure a **strong position in the software industry** where I can:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanjilahamed99&theme=radical&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanjilahamed99&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
